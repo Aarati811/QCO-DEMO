@@ -1,7 +1,7 @@
 package github;
 
-public class Demo2 {
+public class Demo3 {
 public static void main(String[] args) {
-	System.out.println(" hi my 2nd commit");
+	System.out.println("hi");
 }
 }
